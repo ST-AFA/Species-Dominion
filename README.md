@@ -3,5 +3,5 @@
 
 Adds Romulan as Species to the Game.
 
-Image Source: [StarTrek Designproject](https://www.startrekdesignproject.com/symbols/the-dominion)
+Image Source: [Star Trek Design Project](https://www.startrekdesignproject.com/symbols/the-dominion)
 Color Shema: [Star Trek color palettes](https://leonawicz.github.io/trekcolors/reference/trek_pal.html)
