@@ -18,7 +18,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE
+SOFTWARE.
 
 # Acknowledgement of borrowed IP
 
@@ -38,4 +38,4 @@ The use of elements from Star Trek in this fan work is intended to fall under th
 If CBS Studios/Paramount or any authorized representative requests the removal of this fan work, the author will comply promptly.
 
 6. Disclaimer:
-This fan work is not an official product of CBS Studios/Paramount. The author has made every effort to respect the original material and its creators
+This fan work is not an official product of CBS Studios/Paramount. The author has made every effort to respect the original material and its creators.
